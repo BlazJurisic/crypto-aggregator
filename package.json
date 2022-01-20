@@ -44,7 +44,7 @@
     "coinmarketcap-api": "^1.1.0",
     "cron": "^1.3.0",
     "lodash": "^4.17.15",
-    "log-with-statusbar": "^1.1.18",
+    "@adrianbrowning/log-with-statusbar": "git+https://github.com/adrianbrowning/log-with-statusbar.git",
     "moment": "^2.19.3",
     "moment-duration-format": "^2.3.2",
     "money": "^0.2.0",

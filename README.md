@@ -1,5 +1,7 @@
 # crypto-aggregator
 
+## FIXED BY ADDING @adrianbrowning fork of log-with-statusbar
+
 Continuously scans exchanges and calculates the volume-weighted average market pair price (VWAMPP) of each cryptocurrency.
 
 [![NPM](https://badge.fury.io/js/crypto-aggregator.svg)](https://www.npmjs.com/package/crypto-aggregator)
